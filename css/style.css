@@ -1,0 +1,11 @@
+/* *{
+    border: 1px red solid;
+} */
+
+.bottom-img{
+    height:150px;
+}
+.main-img{
+    height:300px;
+    object-fit:contain;
+}
